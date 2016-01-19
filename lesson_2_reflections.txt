@@ -1,2 +1,5 @@
 What happenes when you initialize a repository? Why do you need to do it?
 The folder .git gets created! And files can get started to be tracked!
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+You can decide which files to commit, not all files in the working directory need to be committed and tracked..
