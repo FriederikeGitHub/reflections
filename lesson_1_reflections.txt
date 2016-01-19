@@ -1,0 +1,12 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+The differences were listed with indices to the line number where the change had occured!
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+It is possible to compare the different versions in oder to see what has changed and where the file improved!
+
+Pros and cons of manually choosing when to create a commit vs having versions automatically saved?
+You can decide each time whether the change is important to be committed or not, but you should not forget saving!
+
+How to use the commands git log and git diff to view the history of files?
+git log is to show all the different commit files
+git diff is to show the difference between two git commit files
