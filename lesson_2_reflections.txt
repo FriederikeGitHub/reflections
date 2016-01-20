@@ -12,3 +12,6 @@ If you want to create some intermediate changes that don't have to change the ma
 
 How do the diagrams help you visualize the branch structure?
 You will understand better how the branch is constructed!
+
+What are the pros and cons of Git's automatic merging vs.always doing merges manually?
+you can decide what you want to merge but you have to remember which parts to merge and to do it..
