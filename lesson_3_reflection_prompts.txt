@@ -15,3 +15,6 @@ You can continue working offline on your file and merge it later to the remote v
 How would you collaborate without using Git or GitHub? What would be easier and what would be harder?
 You have to be very clear in what everyone changes to not make the same or contrary changes. Git and GitHub make it easier to collaborate because they help finding easily the changes commited.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+If collaborating and wanting someone to check out first your changes it is useful to create a different branch. Making a separate branch is more secure but even needs some commands more to be merged later to the original.
+
