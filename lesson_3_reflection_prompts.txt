@@ -12,3 +12,6 @@ Branches are inside a repository to difference the various phases of working on 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You can continue working offline on your file and merge it later to the remote version.
 
+How would you collaborate without using Git or GitHub? What would be easier and what would be harder?
+You have to be very clear in what everyone changes to not make the same or contrary changes. Git and GitHub make it easier to collaborate because they help finding easily the changes commited.
+
