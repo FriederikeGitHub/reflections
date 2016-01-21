@@ -9,4 +9,6 @@ Forks clone a repository directly between two GitHub accounts and then you can s
 Clone copies a repository from remote to working directory.
 Branches are inside a repository to difference the various phases of working on a project p.ex. if you are also collaborating everyone can create his own branch which can be merged later.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You can continue working offline on your file and merge it later to the remote version.
 
